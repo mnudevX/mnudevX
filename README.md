@@ -3,7 +3,7 @@
 
 
 ### Tech stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,angular,npm,react,vue,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,angular,npm,react,vue,vscode,figma,bootstrap)](https://skillicons.dev)
 
 
 
